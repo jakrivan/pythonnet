@@ -23,6 +23,7 @@
 -   David Lechner ([@dlech](https://github.com/dlech))
 -   Dmitriy Se ([@dmitriyse](https://github.com/dmitriyse))
 -   He-chien Tsai ([@t3476](https://github.com/t3476))
+-   Jan Krivanek ([@jakrivan](https://github.com/jakrivan))
 -   Jeff Reback ([@jreback](https://github.com/jreback))
 -   Joe Frayne ([@jfrayne](https://github.com/jfrayne))
 -   John Burnett ([@johnburnett](https://github.com/johnburnett))
@@ -46,5 +47,4 @@
 -   ([@rmadsen-ks](https://github.com/rmadsen-ks))
 -   ([@stonebig](https://github.com/stonebig))
 -   ([@testrunner123](https://github.com/testrunner123))
--   Jan Krivanek ([@jakrivan](https://github.com/jakrivan))
 
